@@ -1,0 +1,29 @@
+/src/generated/resources/.cache/
+
+
+/.gradle/
+/build/
+/run/
+/run-data/
+
+# IDEA
+/.idea/
+out
+*.ipr
+*.iws
+*.iml
+
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# Files from Forge MDK
+forge*changelog.txt
+TODO.txt
+
+
+
