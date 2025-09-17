@@ -372,7 +372,6 @@ public class PenjaminItem extends Item {
         // Switch on the registry path (e.g., "blue_ice_extract").
         String path = net.minecraft.core.registries.BuiltInRegistries.ITEM.getKey(extractItem).getPath();
 
-        // TODO: tune durations/amplifiers per strain. Values below are examples.
         return switch (path) {
             case "blue_ice_extract" -> java.util.List.of(
                     new MobEffectInstance(MobEffects.LUCK,           20 * 60, 0)
