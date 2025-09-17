@@ -1,0 +1,17 @@
+{
+  "item.penjaminv1.battery_with_cart": "Penjamin",
+  "item.penjaminv1.battery": "Battery",
+  "item.penjaminv1.empty_cart": "Empty Cart",
+  "item.penjaminv1.full_cart": "Full Cart",
+
+  "subtitles.penjaminv1.inhale": "Inhaling...",
+  "subtitles.penjaminv1.exhale": "Exhaling...",
+
+  "info.penjaminv1.penjamin_assembly.1": "How to assemble Penjamin:",
+  "info.penjaminv1.penjamin_assembly.2": "1) Hold a Full Cart in your off-hand.",
+  "info.penjaminv1.penjamin_assembly.3": "2) Hold a Battery in your main hand.",
+  "info.penjaminv1.penjamin_assembly.4": "3) Right-click to assemble.",
+  "info.penjaminv1.penjamin_assembly.5": "Consumes 1 Battery + 1 Full Cart; keeps battery charge, copies strain; starts with 20 cart uses.",
+
+  "creativetab.penjamin_tab": "Penjamin Mod"
+}

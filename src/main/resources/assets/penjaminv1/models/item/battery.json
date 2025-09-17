@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/handheld",
+	"loader": "forge:separate_transforms",
+	"base": {
+		"parent": "penjaminv1:item/battery_3d"
+	},
+	"perspectives": {
+		"gui": {
+			"parent": "penjaminv1:item/battery_2d"
+		}
+	}
+}

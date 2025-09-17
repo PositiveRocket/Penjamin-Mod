@@ -1,0 +1,20 @@
+{
+  "inhale": {
+    "subtitle": "subtitles.penjaminv1.inhale",
+    "sounds": [
+      { "name": "penjaminv1:inhale" }
+    ]
+  },
+  "exhale": {
+    "subtitle": "subtitles.penjaminv1.exhale",
+    "sounds": [
+      { "name": "penjaminv1:exhale" }
+    ]
+  },
+  "cough": {
+    "subtitle": "subtitles.penjaminv1.cough",
+    "sounds": [
+      { "name": "penjaminv1:cough" }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "tag": "forge:dyes/light_blue"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "pattern": [
+    " I ",
+    " R ",
+    " D "
+  ],
+  "result": {
+    "item": "penjaminv1:battery",
+    "nbt": "{display:{color:10141901}}"
+  }
+}

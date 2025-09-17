@@ -1,13 +1,13 @@
-/src/generated/resources/.cache/
+src/generated/resources/.cache/
 
 
-/.gradle/
-/build/
-/run/
-/run-data/
+.gradle/
+build/
+run/
+run-data/
 
 # IDEA
-/.idea/
+.idea/
 out
 *.ipr
 *.iws

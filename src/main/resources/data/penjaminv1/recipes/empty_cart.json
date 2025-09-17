@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    " G ",
+    " I "],
+  "key": {
+    "I": { "item": "minecraft:iron_nugget" },
+    "G": { "item": "minecraft:glass" }
+  },
+  "result": { "item": "penjaminv1:empty_cart", "count": 3 }
+}

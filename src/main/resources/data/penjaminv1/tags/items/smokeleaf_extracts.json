@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "smokeleafindustry:blue_ice_extract",
+    "smokeleafindustry:bubblegum_extract",
+    "smokeleafindustry:bubble_kush_extract",
+    "smokeleafindustry:lemon_haze_extract",
+    "smokeleafindustry:purple_haze_extract",
+    "smokeleafindustry:sour_diesel_extract",
+    "smokeleafindustry:white_widow_extract"
+  ]
+}
