@@ -12,9 +12,9 @@ Penjamin is a vibe mod that adds a clean, rip-ready pen to your world. Rips give
 - **Effects on rip** — different effects depending on what you’re running.
 - **Blinker penalty** — push a full blinker and you’ll get **Nausea**.
 
-> Extracts come from the **Smokeleaf Industries** mod. You’ll infuse those into Penjamin carts via a brewing stand.
+> Extracts come from the **Smokeleaf Industry** mod. You’ll infuse those into Penjamin carts via a brewing stand.
 >  
-> 🔗 Smokeleaf Industries: — `[Smokeleaf Industries](https://www.curseforge.com/minecraft/mc-mods/smokeleaf-industry)`
+> 🔗 Smokeleaf Industry: — `[Smokeleaf Industry](https://www.curseforge.com/minecraft/mc-mods/smokeleaf-industry)`
 
 ---
 
@@ -22,7 +22,7 @@ Penjamin is a vibe mod that adds a clean, rip-ready pen to your world. Rips give
 
 - **Minecraft** *1.20.1 only*  
 - **Forge** *only*
-- **Smokeleaf Industries** (for extracts/infusion content)
+- **Smokeleaf Industry** (for extracts/infusion content)
 
 ---
 
@@ -30,7 +30,7 @@ Penjamin is a vibe mod that adds a clean, rip-ready pen to your world. Rips give
 
 1. **Craft a Battery** (any color).  
 2. **Craft an Empty Cart.**  
-3. **Grow & process** with **Smokeleaf Industries** to get extracts.  
+3. **Grow & process** with **Smokeleaf Industry** to get extracts.  
 4. **Infuse** the Empty Cart in a **Brewing Stand** using those extracts.  
 5. **Rip the Pen**:
    - Each **Cart** ≈ **20 rips**.  
@@ -44,7 +44,7 @@ Penjamin is a vibe mod that adds a clean, rip-ready pen to your world. Rips give
 
 1. Install **Forge 1.20.1**.  
 2. Drop the Penjamin mod `.jar` into your `mods/` folder.  
-3. Also install **Smokeleaf Industries** _it is required_.  
+3. Also install **Smokeleaf Industry** _it is required_.  
 4. Launch the game.
 
 > **Servers:** This is a content mod. Server and clients should both have the same mod set.
