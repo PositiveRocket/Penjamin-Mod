@@ -14,7 +14,7 @@ Penjamin is a vibe mod that adds a clean, rip-ready pen to your world. Rips give
 
 > Extracts come from the **Smokeleaf Industry** mod. You’ll infuse those into Penjamin carts via a brewing stand.
 >  
-> 🔗 Smokeleaf Industry: — `[Smokeleaf Industry](https://www.curseforge.com/minecraft/mc-mods/smokeleaf-industry)`
+> 🔗 Smokeleaf Industry by Micaxs: [Smokeleaf Industry](https://github.com/Micaxs/smokeleafindustry)
 
 ---
 
