@@ -2,7 +2,6 @@ src/generated/resources/.cache/
 
 
 .gradle/
-.gradle/8.8/checksums/
 build/
 run/
 run-data/
